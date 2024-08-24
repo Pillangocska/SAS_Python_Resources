@@ -11,6 +11,8 @@ https://github.com/sassoftware/sas-viya-the-python-perspective/tree/main
 
 https://github.com/sassoftware/sas-viya-machine-learning/tree/master
 
+https://documentation.sas.com/doc/en/vdmmlcdc/8.1/caspg3/n0c8k27l2vkwlin196w5qptqsjqx.htm
+
 ## Basic SAS-CAS programming ->
 
 https://github.com/sassoftware/converting-sas-code-to-leverage-cas/tree/main
